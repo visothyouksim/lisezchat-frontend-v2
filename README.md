@@ -33,7 +33,7 @@ Application mobile React Native (Expo) pour consulter, publier et commenter des 
 
 1. **Clone le repo et place-toi dans le dossier backend :**
    ```bash
-   git clone https://github.com/visothyouksim/lisezchat-frontend-v2
+   git clone https://github.com/visothyouksim/lisezchat-frontend-v2.git
    cd lisezchat-frontend
 
 2. **Installe les dépendances :
